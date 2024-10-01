@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6/0a5H3a5kM=",
+  "success": true,
+  "projectFilePath": "D:\\MQTT\\Nodered\\Nodered.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ancha\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.2\\communitytoolkit.mvvm.8.3.2.nupkg.sha512",
+    "C:\\Users\\ancha\\.nuget\\packages\\mqttnet\\4.3.7.1207\\mqttnet.4.3.7.1207.nupkg.sha512"
+  ],
+  "logs": []
+}
